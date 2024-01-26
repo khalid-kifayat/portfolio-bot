@@ -16,6 +16,10 @@ st.set_page_config(page_title="Portfolio-Bot")
 st.title("Portfolio-Bot")
 hide_streamlit_style = """
             <style>
+
+            background-image: url("https://images.unsplash.com/photo-1542281286-9e0a16bb7366");
+            background-size: cover;
+            
             [data-testid="stToolbar"] {visibility: hidden;}
             .reportview-container {
             margin-top: -2em;
@@ -45,7 +49,7 @@ chat = ChatOpenAI(
     temperature=1,
     model_name="gpt-3.5-turbo",
     openai_api_key=openapi_key, 
-    max_tokens=100
+    max_tokens=200
 )
 
 
