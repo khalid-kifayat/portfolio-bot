@@ -92,8 +92,24 @@ I also work as a proficient AI-chatbot developer in Google Dialogflow & Amazon A
 * Deploying App using GiT-Maven-Jenkins & Tomcat Server.
 ---
 **Ai Chatbot Projects:**
-* https://chatbot-saylani.netlify.app/
-* https://daraz-ai.netlify.app/ 
+* Personalized Diet and Workout Recommender
+https://dietplan-app.streamlit.app/
+* Gemini Health App
+https://health-application.streamlit.app/
+* Youtube Video Transcriber
+https://yt-transcriber-app.streamlit.app/
+* ATS System (Resume)
+https://cv-app.streamlit.app/
+* ChatwithPDF
+https://pdf-chating.streamlit.app/
+* MultiLanguage Invoice Extractor
+https://invoice-info.streamlit.app/
+* Q&A - Saving Chat History
+https://builtautomations.streamlit.app/
+* Project Ideas & Custom Project Description Generator
+https://project-ideas.streamlit.app/
+* Question-Paper Solver Application
+https://exam-paper-solver.streamlit.app/
 ---
 **Communication skills**
 khalid kifayat possesses the following skills,
