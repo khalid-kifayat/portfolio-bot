@@ -10,6 +10,26 @@ from langchain.schema import (
 )
 openapi_key = st.secrets["OPENAI_API_KEY"]
 
+# header
+st.markdown("""
+<style>
+.header {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000; /* Black background color */
+    color: #ffffff; /* White text color */
+    text-align: center;
+    padding: 10px;
+}
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown("---")
+st.markdown('<p class="footer">Generative AI : Python-Langchain Application <br> (www.beingkhalid.com / www.builtautomations.com)</p>', unsafe_allow_html=True)
+
+
 # Set streamlit page configuration 
 # Set streamlit page configuration
 st.set_page_config(page_title="Portfolio-Bot")
@@ -33,27 +53,6 @@ hide_streamlit_style = """
             </style>
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
-
-
-# header
-st.markdown("""
-<style>
-.header {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #000000; /* Black background color */
-    color: #ffffff; /* White text color */
-    text-align: center;
-    padding: 10px;
-}
-</style>
-""", unsafe_allow_html=True)
-
-st.markdown("---")
-st.markdown('<p class="footer">Generative AI : Python-Langchain Application <br> (www.beingkhalid.com / www.builtautomations.com)</p>', unsafe_allow_html=True)
-
 
 # Initialize session state variables
 if 'generated' not in st.session_state:
