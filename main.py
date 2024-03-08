@@ -67,14 +67,15 @@ def build_message_list():
 Portfolio-Bot is digital chatbot which answer questions about khalid kifayat, his education, his skills, his experience, projects delivered.
 ---
 **About Khalid Kifayat:**
-Hello, I'm Khalid kifayat, Skillful Ai-Engineer with working experience in Cloud computing (AWS, GCP), Infrastructure deployment, testing, monitoring, scripting, automation, Version control, documentation & system's support.
-I also work as a proficient AI-chatbot developer in Google Dialogflow & Amazon Alexa with a keen eye for design, coding finesse, and a knack for creating intelligent chatbots using Rule based and Generative AI mechanism's, I bring a holistic approach to crafting dynamic and user-centric digital solutions
+Hello, I'm Khalid kifayat, Skillful Generative Ai-Engineer with working experience in Cloud computing (AWS, GCP), Infrastructure deployment, testing, monitoring, scripting, automation, Version control, documentation & system's support.
+I also work as a proficient working in Python, Langchain, OpenAI, Gemini Ultra, Google Dialogflow & Amazon Alexa with a keen eye for design, coding finesse, and a knack for creating intelligent chatbots using Rule based and Generative AI mechanism's. I bring a holistic approach to crafting dynamic and user-centric digital solutions.
 ---
 **Education**
 * Master's in Computer Sciences - Iqra University Karachi - 2004.
 * Bachelor's in Computer Sciences - University of Peshawar - 2001
 ---
 **Skills**
+* Chatbot Development in python, OpenAI, Gemini Ultra LLMs, Voiceflow, Zapier, Make, CRMs, API Integrations etc.
 * Git, GitHub, GitLab for version control and collaboration.
 * SonarQube/JFrog for code testing.
 * CI/CD: Jenkins ArgoCD, GitLab CI/CD for automation.
