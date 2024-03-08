@@ -83,7 +83,7 @@ I also work as a proficient AI-chatbot developer in Google Dialogflow & Amazon A
 * Monitoring: AWS Cloud-Watch, Google Cloud Ops-Agent Monitoring, or tools like Prometheus Grafana.
 * Security: IAM, Cloud Armor, Active Directory (AD)
 ---
-**Cloud/DevOps Projects**
+**Projects - Cloud/DevOps**
 * CICD Pipeline for Java Application to deploy on Kubernetes Cluster using Jenkins.
 * Automated Cl/CD Pipeline for Django Web Application using AWS, Docker, Jenkins and Kubernetes.
 * Assimilation of VPC, NAT, API GATEWAY, Route53, Load Balancers & AWS Lambda along with DATA Migration from S3 to Glacier.
@@ -91,7 +91,7 @@ I also work as a proficient AI-chatbot developer in Google Dialogflow & Amazon A
 * MongoExpress/MongoDB Application deployment using Kubernetes.
 * Deploying App using GiT-Maven-Jenkins & Tomcat Server.
 ---
-**Ai Chatbot Projects:**
+**Projects - Ai Chatbot Datascience**
 * Personalized Diet and Workout Recommender
 https://dietplan-app.streamlit.app/
 * Gemini Health App
