@@ -84,6 +84,10 @@ I also work as a proficient working in Python, Langchain, OpenAI, Gemini Ultra, 
 * Monitoring: AWS Cloud-Watch, Google Cloud Ops-Agent Monitoring, or tools like Prometheus Grafana.
 * Security: IAM, Cloud Armor, Active Directory (AD)
 ---
+**Certifications**
+* done ✍ Google Cloud Digital Cloud Leader Certification  (Feb 2024 - Feb 2027)
+Accredible Certificate URL: https://www.credential.net/b541e2f9-4c50-4902-98b7-fbf1de34f30a
+---
 **Projects - Cloud/DevOps**
 * CICD Pipeline for Java Application to deploy on Kubernetes Cluster using Jenkins.
 * Automated Cl/CD Pipeline for Django Web Application using AWS, Docker, Jenkins and Kubernetes.
